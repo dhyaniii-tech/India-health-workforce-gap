@@ -5,3 +5,4 @@
 ## Progress Log
 -**Day 1:** Set up the repo, learned Python basics (variables, lists, dictionaries, loops, if/else).
 -**Day 2:** Learned pandas basics (DataFrame, new columns, filtering, sorting) using practice data.
+-**Day 3:** Loaded a civ with pandas, checked missing values, and grouped data by region.
